@@ -1,0 +1,10 @@
+C:\Users\shforoozan\source\repos\SendToRocketCLR\SendToRocketCLR\obj\Debug\SendToRocketCLR.sqlprojAssemblyReference.cache
+C:\Users\shforoozan\source\repos\SendToRocketCLR\SendToRocketCLR\bin\Debug\SendToRocketCLR.dacpac
+C:\Users\shforoozan\source\repos\SendToRocketCLR\SendToRocketCLR\bin\Debug\SendToRocketCLR.dll
+C:\Users\shforoozan\source\repos\SendToRocketCLR\SendToRocketCLR\bin\Debug\SendToRocketCLR.pdb
+C:\Users\shforoozan\source\repos\SendToRocketCLR\SendToRocketCLR\obj\Debug\Model.xml
+C:\Users\shforoozan\source\repos\SendToRocketCLR\SendToRocketCLR\obj\Debug\refactor.xml
+C:\Users\shforoozan\source\repos\SendToRocketCLR\SendToRocketCLR\obj\Debug\postdeploy.sql
+C:\Users\shforoozan\source\repos\SendToRocketCLR\SendToRocketCLR\obj\Debug\predeploy.sql
+C:\Users\shforoozan\source\repos\SendToRocketCLR\SendToRocketCLR\obj\Debug\SendToRocketCLR.dll
+C:\Users\shforoozan\source\repos\SendToRocketCLR\SendToRocketCLR\obj\Debug\SendToRocketCLR.pdb
